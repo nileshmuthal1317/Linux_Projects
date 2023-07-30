@@ -59,7 +59,7 @@ Once you update the any file in repository you can Stage the changes
 ```
 git add .
 ```
-check the status and log of changes
+Check the status and log of changes
 ```
 git status
 ```
