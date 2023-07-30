@@ -1,4 +1,4 @@
-# Git and GitHub Lifecycle
+# Git and GitHub Initial Setup and Workinge
 
 ## Setting up SSH Authentication
 
