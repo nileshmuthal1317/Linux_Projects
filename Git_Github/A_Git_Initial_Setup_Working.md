@@ -55,9 +55,16 @@ Pull or sync remote repostory data with local repository
 ```
 gut pull
 ```
-Stage the changes
+Once you update the any file in repository you can Stage the changes
 ```
 git add .
+```
+check the status and log of changes
+```
+git status
+```
+```
+git log
 ```
 Commit the changes
 ```
@@ -66,4 +73,5 @@ git commit -m "Your commit message"
 Push the changes to GitHub
 ```
 git push
-````
+```
+
