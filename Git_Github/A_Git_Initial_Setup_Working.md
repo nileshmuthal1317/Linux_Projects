@@ -45,7 +45,7 @@ Push your changes to GitHub
 git push -u origin master
 ```
 
-## Working with GitHub Repository 
+## Working with GitHub repository locally and pushing the changes to remote repository
 
 Clone the repository
 ```
