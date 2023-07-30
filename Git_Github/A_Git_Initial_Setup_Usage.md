@@ -1,12 +1,14 @@
 # Git and GitHub Lifecycle
 
 ## Setting up SSH Authentication
+
 Generate the public and private keys and copy the public key and store it in the GitHub
 ```
 ssh-keygen -t rsa -b 4096
 ```
 
 ## Installing the Git on CENTOS 8
+
 ```
 sudo dnf install git
 ```
@@ -15,9 +17,12 @@ Configure the local user and email to identify the commits
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 ```
-Create the new repository which can be push to GitHub
+
+## Create the new repository which can be push to GitHub
+
+Go to your workspace folder
 ```
-cd /path/to/your/directory
+cd /path/to/your/repository
 ```
 Initialize a new Git repository in that directory
 ```
@@ -39,9 +44,17 @@ Push your changes to GitHub
 ```
 git push -u origin master
 ```
-## Making further changes
-Whenever you make changes to your project,
 
+## Working with GitHub Repository 
+
+Clone the repository
+```
+git clone Repo_URL
+```
+Pull or sync remote repostory data with local repository
+```
+gut pull
+```
 Stage the changes
 ```
 git add .
@@ -53,8 +66,4 @@ git commit -m "Your commit message"
 Push the changes to GitHub
 ```
 git push
-```
-You can pull the remote repository on your local 
-```
-git pull repository_url
-```
+````
