@@ -1,4 +1,4 @@
-# Git and GitHub Initial Setup and Workinge
+# Git and GitHub Initial Setup and Working
 
 ## Setting up SSH Authentication
 
