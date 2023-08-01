@@ -1,10 +1,9 @@
 Sure! Here's the Git and GitHub cheat sheet formatted in Markdown:
 
-```markdown
 # Git Cheat Sheet
 
 1. **Setting Up Git:**
-   ```sh
+   ```
    git config --global user.name "Your Name"
    git config --global user.email "youremail@example.com"
    ```
