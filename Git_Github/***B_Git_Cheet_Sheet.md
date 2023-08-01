@@ -1,5 +1,3 @@
-Sure! Here's the Git and GitHub cheat sheet formatted in Markdown:
-
 # Git Cheat Sheet
 
 1. **Setting Up Git:**
